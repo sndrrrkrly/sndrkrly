@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 💬 About me
+I'm a 17 years old boy from Hungarian :hungary:.
+I love learning new technologies and new programming languages :test_tube:. 
+I am currently working for my company and other stuffs. :floppy_disk:
+
 <!--
 **sndorkirly/sndorkirly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
