@@ -1,6 +1,7 @@
-### Hi There! 👋
+<h1 align="center">Welcome to my profile! 👋</h1>
 
-My name is Sándor Király. 🚀
-I'm a 17 years old, self-taught programmer, from Hungary. 👨🏻‍💻
-I love learning new technologies- and programming languages. 🧪
-I’m currently working on my personal project/- or other third-party projects.
+<p align="center">
+My name is <b>Sándor Király</b>. 🚀 <br>
+I'm a <b>17 years old</b>, <i>self-taught</i> programmer, from <b>Hungary</b>. 👨🏻‍💻 <br>
+I love learning new <i>technologies</i>- and <i>programming</i> languages. 🧪 <br>
+</p>
