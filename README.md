@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my profile! 👋</h1><br>
+### Hi There! 👋
 
-<p align="center">
-My name is <b>Sandor Kiraly</b>. I'm a <b>17 years old</b> boy from Hungary. <br>
-I love learning new <b>technologies</b> and new <b>programming languages</b> :test_tube:, <br><br>
-</p>
+My name is Sándor Király. 🚀
+I'm a 17 years old, self-taught programmer, from Hungary. 👨🏻‍💻
+I love learning new technologies- and programming languages. 🧪
+I’m currently working on my personal project/- or other third-party projects.
