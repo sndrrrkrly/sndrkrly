@@ -11,9 +11,9 @@
 Hi, I'm <b>Sandor</b>, <br>
 I'm 17, from Hungary. 👨🏻‍💻 <br>
 Student & self-taught programmer <br>
-I’ve been obsessed with computers since I was little, <br> and worked with software for the past 5 years 🧪 <br>
+I’ve been obsessed with computers since I was little, and worked with software for the past 5 years 🧪 <br>
 <br>
-I love learning new technologies- and programming languages, <br> and also I love tinkering with new ideas <br> and turning them into full-size products <br> with the goal to make people’s days a little better. 
+I love learning new technologies- and programming languages, <br> and also I love tinkering with new ideas and turning them into full-size products with the goal to make people’s days a little better. 
 <br>
 (Otherwise avid motion graphics, and video editing.)
 </p>
