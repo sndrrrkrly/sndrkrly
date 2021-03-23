@@ -8,7 +8,12 @@
 </p>
 
 <p align="center">
-My name is <b>Sándor Király</b>. 🚀 <br>
-I'm a <b>17 years old</b>, <i>self-taught</i> programmer, from <b>Hungary</b>. 👨🏻‍💻 <br>
-I love learning new <i>technologies</i>- and <i>programming</i> languages. 🧪 <br>
+Hi, I'm <b>Sandor</b>, <br>
+I'm 17, from Hungary. 👨🏻‍💻 <br>
+Student & self-taught programmer <br>
+I’ve been obsessed with computers since I was little, <br> and worked with software for the past 5 years 🧪 <br>
+<br>
+I love learning new technologies- and programming languages, <br> and also I love tinkering with new ideas <br> and turning them into full-size products <br> with the goal to make people’s days a little better. 
+<br>
+(Otherwise avid motion graphics, and video editing.)
 </p>
