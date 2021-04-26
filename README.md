@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45px" width="45px"></h1>
+<h1 align="center">Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px" width="32px"></h1>
 
 <p align="center">
 <a href="https://twitter.com/sndorkrly">
