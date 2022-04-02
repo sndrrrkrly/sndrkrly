@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-Hi, I'm <b>Sandor</b>, I'm 17, from Hungary. 👨🏻‍💻 <br>
+Hi, I'm <b>Sandor</b>, I'm 18, from Hungary. 👨🏻‍💻 <br>
 Student & self-taught programmer <br>
 I’ve been obsessed with computers since I was little, <br> and worked with software for the past 5 years 🎥. <br>
 <br>
