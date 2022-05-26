@@ -1,11 +1,12 @@
 <h1 align="center">Welcome to my profile! 👋🏻</h1>
 
 <p align="center">
-<a href="https://twitter.com/sndorkrly">
+<a href="https://twitter.com/visionbysndr">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://instagram.com/sndrkrly">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
+
 
 <p align="center">
 Hi, I'm <b>Sandor</b>, I'm 18, from Hungary. 👨🏻‍💻 <br>
