@@ -10,7 +10,7 @@
 
 <p align="center">
 Hi, I'm <b>Sandor</b>, I'm 18, from Hungary. 👨🏻‍💻 <br>
-Student & self-taught programmer <br>
+Self-taught programmer <br>
 I’ve been obsessed with computers since I was little, <br> and worked with software for the past 5 years 🎥. <br>
 <br>
 I love learning new technologies- and programming languages, <br> and also I love tinkering with new ideas and turning them <br> into full-size products with the goal to make people’s days a little better. 
