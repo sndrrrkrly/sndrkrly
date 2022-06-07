@@ -1,32 +1,20 @@
-<h1 align="center">Welcome to my profile! 👋🏻</h1>
+**Hey, I'm Sándor! 👋**
 
-<p align="center">
-<a href="https://twitter.com/visionbysndr">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://instagram.com/sndrkrly">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
+I'm 18, a self-taught developer based in Hungary. 
+I've been obsessed with computers since I was little. 
+I love learning new technologies- and programming languages, and also I love tinkering with new ideas and turning them 
+into full-size products with the goal to make people's days a little better.
+
+I also make [Saiss](https://github.com/sndrkrly/saiss), a fast, minimal browser that protects your privacy, and [inkHouse](https://github.com/sndrkrly/inkhouse), a voice-talk-only social network platform of the future (hopefully). 
+I like open-sourcing projects, or contributing to other open-source projects.
+
+If I'm not coding or [tweeting](https://twitter.com/visionbysndr), I probably draw or read because I love both!
+
+<p align="center flex flex-col">
+  <img src="https://img.shields.io/badge/-HTML5-darkred?style=flat-rounded&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-rounded&logo=css3"/>
+  <img src="https://img.shields.io/badge/-React-darkblue?style=flat-rounded&logo=react"/>
+  <img src="https://img.shields.io/badge/-Vue-black?style=flat-rounded&logo=vue.js"/>
 </p>
 
-
-<p align="center">
-Hi, I'm <b>Sandor</b>, I'm 18, from Hungary. 👨🏻‍💻 <br>
-Self-taught programmer <br>
-I’ve been obsessed with computers since I was little, <br> and worked with software for the past 5 years 🎥. <br>
-<br>
-I love learning new technologies- and programming languages, <br> and also I love tinkering with new ideas and turning them <br> into full-size products with the goal to make people’s days a little better. 
-<br>
-(Otherwise avid motion graphics, and video editing.)
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-darkred?style=flat-rounded&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS3-blue?style=flat-rounded&logo=css3"/>
-<img src="https://img.shields.io/badge/-React-darkblue?style=flat-rounded&logo=react"/>
-<img src="https://img.shields.io/badge/-Vue-black?style=flat-rounded&logo=vue.js"/>
-<img src="https://img.shields.io/badge/-Lua-darkblue?style=flat-rounded&logo=lua"/>
-<img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-rounded&logo=mysql"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=sndrkrly&show_icons=true&title_color=fff&icon_color=3f3c3e&text_color=ffffff&bg_color=0d1011"><br>
-</p>
+![Sandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sndrkrly&theme=vue&show_icons=true)
