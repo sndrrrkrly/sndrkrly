@@ -14,7 +14,7 @@ If I'm not coding or [tweeting](https://twitter.com/visionbysndr), I probably dr
   <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'/>
   <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/> 
   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/> <br />
+  <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/> <br /> <br />
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -33,5 +33,7 @@ If I'm not coding or [tweeting](https://twitter.com/visionbysndr), I probably dr
   <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </p>
+
+<br />
 
 ![Sandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sndrkrly&theme=vue&show_icons=true)
