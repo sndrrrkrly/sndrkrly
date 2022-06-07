@@ -1,4 +1,4 @@
-# **Hey, I'm Sándor! 👋**
+**Hey, I'm Sándor! 👋**
 
 I'm 18, a self-taught developer based in Hungary. 
 I've been obsessed with computers since I was little. 
