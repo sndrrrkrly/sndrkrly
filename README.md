@@ -15,7 +15,6 @@ I love learning new technologies- and programming languages, and also I love tin
 into full-size products with the goal to make people's days a little better.
 
 I also make some open-source projects, like [notedrop](https://github.com/sndrkrly/notedrop), a fast note-taking app based on modern web-technologies, and [inkHouse](https://github.com/sndrkrly/inkhouse), a voice-talk-only social network platform. 
-I like open-sourcing projects, or contributing to other open-source projects.
 
 <p align="center flex flex-col">
   <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white'/>
